@@ -38,3 +38,9 @@ Plus, export to different formats to use your models elsewhere, like Coral, Ardu
   * It can be further extendable and can be embedded to the CCTV footage from there we can easyly identify who are all not wearing the mask correctly
   
   * Have a look at the [Live face mask detection](https://albusdracosam.github.io/MaskDetection.github.io/) here.
+
+### Instructions
+
+ * Sit in a well lit environment.
+
+ * It will take a minute to access the camera.
